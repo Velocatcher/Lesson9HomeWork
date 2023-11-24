@@ -1,0 +1,15 @@
+D:\C#\Semminar9_HW\bin\Debug\net6.0\Semminar9_HW.exe
+D:\C#\Semminar9_HW\bin\Debug\net6.0\Semminar9_HW.deps.json
+D:\C#\Semminar9_HW\bin\Debug\net6.0\Semminar9_HW.runtimeconfig.json
+D:\C#\Semminar9_HW\bin\Debug\net6.0\Semminar9_HW.dll
+D:\C#\Semminar9_HW\bin\Debug\net6.0\Semminar9_HW.pdb
+D:\C#\Semminar9_HW\obj\Debug\net6.0\Semminar9_HW.csproj.AssemblyReference.cache
+D:\C#\Semminar9_HW\obj\Debug\net6.0\Semminar9_HW.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Semminar9_HW\obj\Debug\net6.0\Semminar9_HW.AssemblyInfoInputs.cache
+D:\C#\Semminar9_HW\obj\Debug\net6.0\Semminar9_HW.AssemblyInfo.cs
+D:\C#\Semminar9_HW\obj\Debug\net6.0\Semminar9_HW.csproj.CoreCompileInputs.cache
+D:\C#\Semminar9_HW\obj\Debug\net6.0\Semminar9_HW.dll
+D:\C#\Semminar9_HW\obj\Debug\net6.0\refint\Semminar9_HW.dll
+D:\C#\Semminar9_HW\obj\Debug\net6.0\Semminar9_HW.pdb
+D:\C#\Semminar9_HW\obj\Debug\net6.0\Semminar9_HW.genruntimeconfig.cache
+D:\C#\Semminar9_HW\obj\Debug\net6.0\ref\Semminar9_HW.dll
